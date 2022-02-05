@@ -11,3 +11,11 @@ These are the features of my project
 7.Exit
 
 # Low-level requirements
+Functions used 
+1.menu()      //  displays the welcome screen to perform different banking activities
+2.new_acc()   //  creates a new customer account
+3.view list() //  view the customer’s banking information 
+4.edit()      //  used for changing the address and phone number of a particular customer account
+5.transact() //   deposit and withdraw money to and from a particular customer account
+6.erase()    //   for deleting a customer account
+7.see()      //   shows account and personal details of the customer
