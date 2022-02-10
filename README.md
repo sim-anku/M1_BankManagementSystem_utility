@@ -14,6 +14,7 @@ This project is basically related to bank management system from fetching user d
 # Design
 1.Structural Diagram
 2.UMl Diagram
+3.Diagram(2)
 
 # Implementation
 1.Code in C language
