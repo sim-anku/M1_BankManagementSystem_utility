@@ -18,6 +18,13 @@ This project is basically related to bank management system from fetching user d
 # Implementation
 1.Code in C language
 
+# Test Plan
+1.Src
+-MakeFile
+-unity.h
+-unity.c
+-unity internals.h
+
 # Code quality score
 https://api.codiga.io/project/30945/score/svg
 
