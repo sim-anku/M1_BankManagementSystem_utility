@@ -1,1 +1,20 @@
 Requirements
+
+1. High-level Requirements
+   a.Banking Registration Form
+   b.New Customer Registration
+   c.To search customer of a particular Branch
+   d.Display all records of customers
+   e.Exit
+
+2. Low-level Requirements
+   a.struct Customer_details
+   - declaring variable like name,gender,city,group,address,id,bank,contact_no,etc.
+   b.void insert()
+   - in this function we will create a customer registration form.
+   c.void search()
+   - in this we will search the customer of a particular branch.
+   d.void display()
+   - in this records of customers to be displayed.
+   e.int main()
+   - calling all the functions using switch case.
