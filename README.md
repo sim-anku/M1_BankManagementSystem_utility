@@ -19,8 +19,8 @@ This project is basically related to bank management system from fetching user d
 1.Code in C language
 
 # Code quality score
-https://api.codiga.io/project/30936/score/svg
+https://api.codiga.io/project/30945/score/svg
 
 # Code quality badge
-https://api.codiga.io/project/30936/status/svg
+https://api.codiga.io/project/30945/status/svg
 
