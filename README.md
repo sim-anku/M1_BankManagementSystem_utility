@@ -1,6 +1,8 @@
 # M1_BankManagementSystem
 This project is basically related to bank management system from fetching user details , creating bank registration page , searching details of the user and displaying the details of the user. 
 
+# Build
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dwyl/auth_plug/Elixir%20CI?label=build&style=flat-square)
 
 # Code quality score
 ![Code grade](https://api.codiga.io/project/30945/score/svg)
