@@ -1,0 +1,5 @@
+I would like to thank all the resources available on the internet regarding my project. I am mentioning few references below:-
+1. GitHub Learning
+2. CodewithC
+3. Geeksforgeeks
+4. Wikipedia
