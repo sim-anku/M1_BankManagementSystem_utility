@@ -27,18 +27,21 @@ This project is basically related to bank management system from fetching user d
 -unity internals.h
 
 # Code quality score
-https://api.codiga.io/project/30945/score/svg
+![Code grade](https://api.codiga.io/project/30945/score/svg)
+
 
 # Code quality badge
-https://api.codiga.io/project/30945/status/svg
+![Code grade](https://api.codiga.io/project/30945/status/svg)
+
 
 # Markdown
-https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
+![Code grade](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 # Docs
-https://readthedocs.org/projects/ansicolortags/badge/?version=latest
+![Code grade](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)
 
 
 # Reuse Licensing Badge
-https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool
+![Code grade](https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool)
+
 
