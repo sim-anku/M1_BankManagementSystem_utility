@@ -27,3 +27,6 @@ This project is basically related to bank management system from fetching user d
 
 # Build
 [![Build](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/Build.yml/badge.svg)](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/Build.yml)
+
+# Unit Testing
+[![Unit Testing](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/Unit.yml/badge.svg)](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/Unit.yml)
