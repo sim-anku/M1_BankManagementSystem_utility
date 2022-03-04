@@ -22,6 +22,9 @@ This project is basically related to bank management system from fetching user d
 # Reuse Licensing Badge
 ![Code grade](https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool)
 
+# CI
+[![CI](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/main.yml/badge.svg)](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/main.yml)
+
 
 
 
