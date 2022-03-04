@@ -25,6 +25,6 @@ This project is basically related to bank management system from fetching user d
 # CI
 [![CI](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/main.yml/badge.svg)](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/main.yml)
 
-
-
+# CPP-check
+[![CPP-check](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/CPP.yml/badge.svg)](https://github.com/sim-anku/M1_BankManagementSystem_utility/actions/workflows/CPP.yml)
 
